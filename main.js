@@ -33,14 +33,14 @@ const clockText = () =>{
         month = date.getMonth(),
         year = date.getFullYear()
 
-    if(hh >= 24){
-        hh = hh - 24
+    if(hh >= 12){
+        hh = hh - 12
         ampm = 'PM'
     }else{
         ampm = 'AM'
     }
 
-    if(hh == 0){hh = 24}
+    if(hh == 0){hh = 12}
 
     if(hh < 10){hh = `0${hh}`}
 
