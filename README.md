@@ -1,6 +1,6 @@
 ![Logo do projeto](https://i.imgur.com/vMW1nBQ.jpeg)
 
-## 🔥 Sobre o Projeto
+##  Sobre o Projeto
 
 Esse proejeto teve como objetivo principal aprimorar meus conhecimentos básicos em Css, Sass e JavaScript.
 
